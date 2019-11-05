@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My page</title>
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+            
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="locations.html">LOCATIONS</a></li>
+                <li class="logo"><a href="index.html">LOGO</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+                <li><a href="directions.html">DIRECTIONS</a></li>
+        
+            </ul>
+
+            <
+
+
+        </nav>
+    
+    
+    
+    </header>
+    <section class="features">
+        <figure>
+        <img src="coffee1.jpg" alt="">
+        <figcaption>Coffee</figcaption>
+    </figure>
+    <figure>
+        <img src="baked.png" alt="">
+        <figcaption>Baked Goods</figcaption>
+    </figure>
+    <figure>
+            <img src="store.jpg" alt="">
+            <figcaption>Store</figcaption>
+        </figure>
+    </section>
+
+
+    </section>
+    <section>Lower section</section>
+    <footer>Foooter</footer>
+
+
+
+
+</body>
+
+
+</html>
